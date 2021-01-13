@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  13 JAN 2021 17:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  13 JAN 2021 17:45
 entering extended mode
 **./ProyectoFinal_3Uni_BD2.tex
 (ProyectoFinal_3Uni_BD2.tex
@@ -225,8 +225,10 @@ kend-pdftex.def"
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count268
 \l__pdf_internal_box=\box49
+) (ProyectoFinal_3Uni_BD2.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
 )
-No file ProyectoFinal_3Uni_BD2.aux.
 \openout1 = `ProyectoFinal_3Uni_BD2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -301,25 +303,15 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-LaTeX Warning: File `img/uptlogo.jpg' not found on input line 31.
-
-
-! Package pdftex.def Error: File `img/uptlogo.jpg' not found: using draft setti
-ng.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.31 ...cs[width=6cm, height=7cm]{img/uptlogo.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<img/uptlogo.jpg, id=1, 580.41844pt x 722.7pt>
+File: img/uptlogo.jpg Graphic file (type jpg)
+<use img/uptlogo.jpg>
+Package pdftex.def Info: img/uptlogo.jpg  used on input line 31.
+(pdftex.def)             Requested size: 170.71713pt x 199.16766pt.
 [1
 
-{C:/Users/VICTOR PIERO/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+{C:/Users/VICTOR PIERO/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/up
+tlogo.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 69--71
 
  []
@@ -451,537 +443,213 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
-
-LaTeX Warning: File `img/OR/mapa.png' not found on input line 216.
-
-
-! Package pdftex.def Error: File `img/OR/mapa.png' not found: using draft setti
-ng.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.216 ...s[width=8cm, height=8cm]{img/OR/mapa.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/OR/primera.png' not found on input line 220.
-
-
-! Package pdftex.def Error: File `img/OR/primera.png' not found: using draft se
-tting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.220 ...idth=8cm, height=8cm]{img/OR/primera.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/OR/segunda.png' not found on input line 224.
-
-
-! Package pdftex.def Error: File `img/OR/segunda.png' not found: using draft se
-tting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.224 ...idth=8cm, height=8cm]{img/OR/segunda.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/OR/tercera.png' not found on input line 228.
-
-
-! Package pdftex.def Error: File `img/OR/tercera.png' not found: using draft se
-tting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.228 ...idth=8cm, height=8cm]{img/OR/tercera.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[4]
+<img/OR/mapa.png, id=25, 513.71925pt x 498.663pt>
+File: img/OR/mapa.png Graphic file (type png)
+<use img/OR/mapa.png>
+Package pdftex.def Info: img/OR/mapa.png  used on input line 216.
+(pdftex.def)             Requested size: 227.62842pt x 227.62247pt.
+<img/OR/primera.png, id=26, 362.85562pt x 432.11438pt>
+File: img/OR/primera.png Graphic file (type png)
+<use img/OR/primera.png>
+Package pdftex.def Info: img/OR/primera.png  used on input line 220.
+(pdftex.def)             Requested size: 227.62578pt x 227.62169pt.
+<img/OR/segunda.png, id=28, 348.55219pt x 341.02406pt>
+File: img/OR/segunda.png Graphic file (type png)
+<use img/OR/segunda.png>
+Package pdftex.def Info: img/OR/segunda.png  used on input line 224.
+(pdftex.def)             Requested size: 227.61992pt x 227.62633pt.
+<img/OR/tercera.png, id=29, 343.2825pt x 439.6425pt>
+File: img/OR/tercera.png Graphic file (type png)
+<use img/OR/tercera.png>
+Package pdftex.def Info: img/OR/tercera.png  used on input line 228.
+(pdftex.def)             Requested size: 227.61998pt x 227.61586pt.
+[4 <./img/OR/mapa.png> <./img/OR/primera.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 235--236
 
  []
 
-
-LaTeX Warning: File `img/Migraciones/1webconfig.png' not found on input line 23
-9.
-
-
-! Package pdftex.def Error: File `img/Migraciones/1webconfig.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.239 ...ight=3cm]{img/Migraciones/1webconfig.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[5]
-
-LaTeX Warning: File `img/Migraciones/2Context.png' not found on input line 244.
-
-
-
-! Package pdftex.def Error: File `img/Migraciones/2Context.png' not found: usin
-g draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.244 ...height=9cm]{img/Migraciones/2Context.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/Migraciones/3clases.png' not found on input line 249.
-
-
-! Package pdftex.def Error: File `img/Migraciones/3clases.png' not found: using
- draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.249 ...,height=6cm]{img/Migraciones/3clases.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[6]
+<img/Migraciones/1webconfig.png, id=34, 782.925pt x 103.88812pt>
+File: img/Migraciones/1webconfig.png Graphic file (type png)
+<use img/Migraciones/1webconfig.png>
+Package pdftex.def Info: img/Migraciones/1webconfig.png  used on input line 239
+.
+(pdftex.def)             Requested size: 341.42978pt x 85.36159pt.
+[5 <./img/OR/segunda.png> <./img/OR/tercera.png>]
+<img/Migraciones/2Context.png, id=41, 532.99126pt x 435.12563pt>
+File: img/Migraciones/2Context.png Graphic file (type png)
+<use img/Migraciones/2Context.png>
+Package pdftex.def Info: img/Migraciones/2Context.png  used on input line 244.
+(pdftex.def)             Requested size: 341.43855pt x 256.09114pt.
+<img/Migraciones/3clases.png, id=42, 189.70876pt x 249.18094pt>
+File: img/Migraciones/3clases.png Graphic file (type png)
+<use img/Migraciones/3clases.png>
+Package pdftex.def Info: img/Migraciones/3clases.png  used on input line 249.
+(pdftex.def)             Requested size: 142.26672pt x 170.72212pt.
+ [6 <./img/Migraciones/1webconfig.png> <./img/Migraciones/2Context.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 253--254
 
  []
 
+<img/Migraciones/4clasemigra.png, id=48, 461.47406pt x 388.45125pt>
+File: img/Migraciones/4clasemigra.png Graphic file (type png)
+<use img/Migraciones/4clasemigra.png>
+Package pdftex.def Info: img/Migraciones/4clasemigra.png  used on input line 25
+6.
+(pdftex.def)             Requested size: 341.42911pt x 256.08224pt.
+<img/Migraciones/5clasemigra.png, id=49, 458.46281pt x 360.59718pt>
+File: img/Migraciones/5clasemigra.png Graphic file (type png)
+<use img/Migraciones/5clasemigra.png>
+Package pdftex.def Info: img/Migraciones/5clasemigra.png  used on input line 26
+0.
+(pdftex.def)             Requested size: 341.44678pt x 256.0753pt.
+[7 <./img/Migraciones/3clases.png> <./img/Migraciones/4clasemigra.png>]
+<img/Migraciones/6clasemigra.png, id=55, 464.4853pt x 359.84438pt>
+File: img/Migraciones/6clasemigra.png Graphic file (type png)
+<use img/Migraciones/6clasemigra.png>
+Package pdftex.def Info: img/Migraciones/6clasemigra.png  used on input line 26
+4.
+(pdftex.def)             Requested size: 341.43867pt x 256.09528pt.
+<img/Migraciones/7clasemigra.png, id=56, 487.06969pt x 395.22656pt>
+File: img/Migraciones/7clasemigra.png Graphic file (type png)
+<use img/Migraciones/7clasemigra.png>
+Package pdftex.def Info: img/Migraciones/7clasemigra.png  used on input line 26
+8.
+(pdftex.def)             Requested size: 341.43697pt x 256.07404pt.
 
-LaTeX Warning: File `img/Migraciones/4clasemigra.png' not found on input line 2
-56.
+[8 <./img/Migraciones/5clasemigra.png> <./img/Migraciones/6clasemigra.png>]
+<img/Migraciones/8clasemigra.png, id=62, 477.28313pt x 382.42876pt>
+File: img/Migraciones/8clasemigra.png Graphic file (type png)
+<use img/Migraciones/8clasemigra.png>
+Package pdftex.def Info: img/Migraciones/8clasemigra.png  used on input line 27
+2.
+(pdftex.def)             Requested size: 341.42963pt x 256.08588pt.
+<img/Migraciones/9clasemigra.png, id=63, 493.0922pt x 400.49625pt>
+File: img/Migraciones/9clasemigra.png Graphic file (type png)
+<use img/Migraciones/9clasemigra.png>
+Package pdftex.def Info: img/Migraciones/9clasemigra.png  used on input line 27
+6.
+(pdftex.def)             Requested size: 341.44534pt x 256.0906pt.
 
+[9 <./img/Migraciones/7clasemigra.png> <./img/Migraciones/8clasemigra.png>]
+<img/Migraciones/10clasemigra.png, id=69, 479.54156pt x 105.39375pt>
+File: img/Migraciones/10clasemigra.png Graphic file (type png)
+<use img/Migraciones/10clasemigra.png>
+Package pdftex.def Info: img/Migraciones/10clasemigra.png  used on input line 2
+80.
+(pdftex.def)             Requested size: 341.43544pt x 113.81389pt.
+<img/Migraciones/11configuracion.png, id=70, 558.58687pt x 330.48468pt>
+File: img/Migraciones/11configuracion.png Graphic file (type png)
+<use img/Migraciones/11configuracion.png>
+Package pdftex.def Info: img/Migraciones/11configuracion.png  used on input lin
+e 286.
+(pdftex.def)             Requested size: 341.44493pt x 256.08263pt.
 
-! Package pdftex.def Error: File `img/Migraciones/4clasemigra.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.256 ...ght=9cm]{img/Migraciones/4clasemigra.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/Migraciones/5clasemigra.png' not found on input line 2
-60.
-
-
-! Package pdftex.def Error: File `img/Migraciones/5clasemigra.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.260 ...ght=9cm]{img/Migraciones/5clasemigra.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[7]
-
-LaTeX Warning: File `img/Migraciones/6clasemigra.png' not found on input line 2
-64.
-
-
-! Package pdftex.def Error: File `img/Migraciones/6clasemigra.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.264 ...ght=9cm]{img/Migraciones/6clasemigra.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/Migraciones/7clasemigra.png' not found on input line 2
-68.
-
-
-! Package pdftex.def Error: File `img/Migraciones/7clasemigra.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.268 ...ght=9cm]{img/Migraciones/7clasemigra.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[8]
-
-LaTeX Warning: File `img/Migraciones/8clasemigra.png' not found on input line 2
-72.
-
-
-! Package pdftex.def Error: File `img/Migraciones/8clasemigra.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.272 ...ght=9cm]{img/Migraciones/8clasemigra.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/Migraciones/9clasemigra.png' not found on input line 2
-76.
-
-
-! Package pdftex.def Error: File `img/Migraciones/9clasemigra.png' not found: u
-sing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.276 ...ght=9cm]{img/Migraciones/9clasemigra.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[9]
-
-LaTeX Warning: File `img/Migraciones/10clasemigra.png' not found on input line 
-280.
-
-
-! Package pdftex.def Error: File `img/Migraciones/10clasemigra.png' not found: 
-using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.280 ...ht=4cm]{img/Migraciones/10clasemigra.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/Migraciones/11configuracion.png' not found on input li
-ne 286.
-
-
-! Package pdftex.def Error: File `img/Migraciones/11configuracion.png' not foun
-d: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.286 ...9cm]{img/Migraciones/11configuracion.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[10]
-
-LaTeX Warning: File `img/Migraciones/12comandos.png' not found on input line 29
-1.
-
-
-! Package pdftex.def Error: File `img/Migraciones/12comandos.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.291 ...ight=3cm]{img/Migraciones/12comandos.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/Migraciones/13comandos.png' not found on input line 29
-5.
-
-
-! Package pdftex.def Error: File `img/Migraciones/13comandos.png' not found: us
-ing draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.295 ...ight=3cm]{img/Migraciones/13comandos.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/Migraciones/14datos.png' not found on input line 299.
-
-
-! Package pdftex.def Error: File `img/Migraciones/14datos.png' not found: using
- draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.299 ...height=10cm]{img/Migraciones/14datos.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[11]
-
-LaTeX Warning: File `img/Migraciones/15consola.png' not found on input line 304
+[10 <./img/Migraciones/9clasemigra.png> <./img/Migraciones/10clasemigra.png>]
+<img/Migraciones/12comandos.png, id=76, 319.94531pt x 101.62968pt>
+File: img/Migraciones/12comandos.png Graphic file (type png)
+<use img/Migraciones/12comandos.png>
+Package pdftex.def Info: img/Migraciones/12comandos.png  used on input line 291
 .
-
-
-! Package pdftex.def Error: File `img/Migraciones/15consola.png' not found: usi
-ng draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.304 ...eight=3cm]{img/Migraciones/15consola.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/Migraciones/16view.png' not found on input line 308.
-
-
-! Package pdftex.def Error: File `img/Migraciones/16view.png' not found: using 
-draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.308 ... height=10cm]{img/Migraciones/16view.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[12]
-
-LaTeX Warning: File `img/Migraciones/17complet.png' not found on input line 313
+(pdftex.def)             Requested size: 227.62654pt x 85.36058pt.
+<img/Migraciones/13comandos.png, id=77, 244.66406pt x 77.53969pt>
+File: img/Migraciones/13comandos.png Graphic file (type png)
+<use img/Migraciones/13comandos.png>
+Package pdftex.def Info: img/Migraciones/13comandos.png  used on input line 295
 .
+(pdftex.def)             Requested size: 227.62854pt x 85.35777pt.
+<img/Migraciones/14datos.png, id=78, 218.31563pt x 226.59656pt>
+File: img/Migraciones/14datos.png Graphic file (type png)
+<use img/Migraciones/14datos.png>
+Package pdftex.def Info: img/Migraciones/14datos.png  used on input line 299.
+(pdftex.def)             Requested size: 227.62251pt x 284.52774pt.
 
+[11 <./img/Migraciones/11configuracion.png> <./img/Migraciones/12comandos.png> 
+<./img/Migraciones/13comandos.png>]
+<img/Migraciones/15consola.png, id=86, 444.15938pt x 121.95563pt>
+File: img/Migraciones/15consola.png Graphic file (type png)
+<use img/Migraciones/15consola.png>
+Package pdftex.def Info: img/Migraciones/15consola.png  used on input line 304.
 
-! Package pdftex.def Error: File `img/Migraciones/17complet.png' not found: usi
-ng draft setting.
+(pdftex.def)             Requested size: 227.62297pt x 85.35902pt.
+<img/Migraciones/16view.png, id=87, 197.23688pt x 228.10219pt>
+File: img/Migraciones/16view.png Graphic file (type png)
+<use img/Migraciones/16view.png>
+Package pdftex.def Info: img/Migraciones/16view.png  used on input line 308.
+(pdftex.def)             Requested size: 227.62418pt x 284.53531pt.
+ [12 <./img/Migraciones/14datos.png> <./img/Migraciones/15consola.png>]
+<img/Migraciones/17complet.png, id=93, 237.88875pt x 403.5075pt>
+File: img/Migraciones/17complet.png Graphic file (type png)
+<use img/Migraciones/17complet.png>
+Package pdftex.def Info: img/Migraciones/17complet.png  used on input line 313.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.313 ...eight=8cm]{img/Migraciones/17complet.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[13]
+(pdftex.def)             Requested size: 142.26971pt x 227.62505pt.
+ [13 <./img/Migraciones/16view.png> <./img/Migraciones/17complet.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 319--320
 
  []
 
-
-LaTeX Warning: File `img/casosdeuso/registrocliente.png' not found on input lin
-e 326.
-
-
-! Package pdftex.def Error: File `img/casosdeuso/registrocliente.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.326 ...=4cm]{img/casosdeuso/registrocliente.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/casosdeuso/registroempleado.png' not found on input li
-ne 332.
-
-
-! Package pdftex.def Error: File `img/casosdeuso/registroempleado.png' not foun
-d: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.332 ...4cm]{img/casosdeuso/registroempleado.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/casosdeuso/registromascota.png' not found on input lin
-e 338.
-
-
-! Package pdftex.def Error: File `img/casosdeuso/registromascota.png' not found
-: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.338 ...=4cm]{img/casosdeuso/registromascota.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[14]
-
-LaTeX Warning: File `img/casosdeuso/registroservicio.png' not found on input li
-ne 344.
-
-
-! Package pdftex.def Error: File `img/casosdeuso/registroservicio.png' not foun
-d: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.344 ...4cm]{img/casosdeuso/registroservicio.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/casosdeuso/registromantenimiento.png' not found on inp
-ut line 350.
-
-
-! Package pdftex.def Error: File `img/casosdeuso/registromantenimiento.png' not
- found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.350 ...img/casosdeuso/registromantenimiento.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/casosdeuso/registrotratamiento.png' not found on input
- line 357.
-
-
-! Package pdftex.def Error: File `img/casosdeuso/registrotratamiento.png' not f
-ound: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.357 ...]{img/casosdeuso/registrotratamiento.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[15]
-
-LaTeX Warning: File `img/casosdeuso/registrohistorial.png' not found on input l
-ine 365.
-
-
-! Package pdftex.def Error: File `img/casosdeuso/registrohistorial.png' not fou
-nd: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.365 ...cm]{img/casosdeuso/registrohistorial.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `img/casosdeuso/registroagenda.png' not found on input line
- 372.
-
-
-! Package pdftex.def Error: File `img/casosdeuso/registroagenda.png' not found:
- using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.372 ...t=5cm]{img/casosdeuso/registroagenda.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<img/casosdeuso/registrocliente.png, id=99, 895.09406pt x 396.7322pt>
+File: img/casosdeuso/registrocliente.png Graphic file (type png)
+<use img/casosdeuso/registrocliente.png>
+Package pdftex.def Info: img/casosdeuso/registrocliente.png  used on input line
+ 326.
+(pdftex.def)             Requested size: 227.62451pt x 113.80838pt.
+<img/casosdeuso/registroempleado.png, id=100, 853.68938pt x 371.13657pt>
+File: img/casosdeuso/registroempleado.png Graphic file (type png)
+<use img/casosdeuso/registroempleado.png>
+Package pdftex.def Info: img/casosdeuso/registroempleado.png  used on input lin
+e 332.
+(pdftex.def)             Requested size: 227.6204pt x 113.81093pt.
+<img/casosdeuso/registromascota.png, id=101, 880.79062pt x 344.03531pt>
+File: img/casosdeuso/registromascota.png Graphic file (type png)
+<use img/casosdeuso/registromascota.png>
+Package pdftex.def Info: img/casosdeuso/registromascota.png  used on input line
+ 338.
+(pdftex.def)             Requested size: 227.61586pt x 113.81023pt.
+[14 <./img/casosdeuso/registrocliente.png> <./img/casosdeuso/registroempleado.p
+ng> <./img/casosdeuso/registromascota.png>]
+<img/casosdeuso/registroservicio.png, id=105, 878.53218pt x 338.01282pt>
+File: img/casosdeuso/registroservicio.png Graphic file (type png)
+<use img/casosdeuso/registroservicio.png>
+Package pdftex.def Info: img/casosdeuso/registroservicio.png  used on input lin
+e 344.
+(pdftex.def)             Requested size: 227.62206pt x 113.80878pt.
+<img/casosdeuso/registromantenimiento.png, id=106, 906.38625pt x 328.22626pt>
+File: img/casosdeuso/registromantenimiento.png Graphic file (type png)
+<use img/casosdeuso/registromantenimiento.png>
+Package pdftex.def Info: img/casosdeuso/registromantenimiento.png  used on inpu
+t line 350.
+(pdftex.def)             Requested size: 227.61945pt x 113.80913pt.
+<img/casosdeuso/registrotratamiento.png, id=107, 815.29594pt x 337.26pt>
+File: img/casosdeuso/registrotratamiento.png Graphic file (type png)
+<use img/casosdeuso/registrotratamiento.png>
+Package pdftex.def Info: img/casosdeuso/registrotratamiento.png  used on input 
+line 357.
+(pdftex.def)             Requested size: 227.62196pt x 113.80746pt.
+ [15 <./img/casosdeuso/registroservicio.png> <./img/casosdeuso/registromantenim
+iento.png> <./img/casosdeuso/registrotratamiento.png>]
+<img/casosdeuso/registrohistorial.png, id=111, 847.66687pt x 372.64218pt>
+File: img/casosdeuso/registrohistorial.png Graphic file (type png)
+<use img/casosdeuso/registrohistorial.png>
+Package pdftex.def Info: img/casosdeuso/registrohistorial.png  used on input li
+ne 365.
+(pdftex.def)             Requested size: 227.61848pt x 113.80637pt.
+<img/casosdeuso/registroagenda.png, id=112, 878.53218pt x 371.88937pt>
+File: img/casosdeuso/registroagenda.png Graphic file (type png)
+<use img/casosdeuso/registroagenda.png>
+Package pdftex.def Info: img/casosdeuso/registroagenda.png  used on input line 
+372.
+(pdftex.def)             Requested size: 256.08153pt x 142.26707pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 380--381
 
  []
 
-
-LaTeX Warning: File `img/arqui.png' not found on input line 384.
-
-
-! Package pdftex.def Error: File `img/arqui.png' not found: using draft setting
-.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.384 ...cs[width=13cm, height=8cm]{img/arqui.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<img/arqui.png, id=113, 518.6878pt x 289.83281pt>
+File: img/arqui.png Graphic file (type png)
+<use img/arqui.png>
+Package pdftex.def Info: img/arqui.png  used on input line 384.
+(pdftex.def)             Requested size: 369.9013pt x 227.62096pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 389--390
 
@@ -1030,35 +698,31 @@ Overfull \hbox (21.67726pt too wide) in paragraph at lines 544--564
 [][]
  []
 
-[16] [17] [18] (ProyectoFinal_3Uni_BD2.aux
+[16 <./img/casosdeuso/registrohistorial.png> <./img/casosdeuso/registroagenda.p
+ng> <./img/arqui.png>] [17] [18] (ProyectoFinal_3Uni_BD2.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
-)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 4646 strings out of 480257
- 73581 string characters out of 2878097
- 386556 words of memory out of 3000000
- 21063 multiletter control sequences out of 15000+200000
- 543724 words of font info for 60 fonts, out of 3000000 for 9000
+ 4293 strings out of 480257
+ 63039 string characters out of 2878097
+ 385032 words of memory out of 3000000
+ 20751 multiletter control sequences out of 15000+200000
+ 543555 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,66p,547b,529s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/VICTOR PIERO/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/V
-ICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.
-pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmti12.pfb><C:/Users/VICTOR PIERO/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ProyectoFinal_3Uni_BD2.pdf (20 pages, 131728 bytes).
+ 60i,8n,66p,547b,521s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/VICTOR PIERO/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/
+VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17
+.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on ProyectoFinal_3Uni_BD2.pdf (20 pages, 1478767 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
+ 148 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
