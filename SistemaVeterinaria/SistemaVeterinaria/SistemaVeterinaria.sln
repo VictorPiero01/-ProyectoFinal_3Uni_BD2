@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaVeterinaria", "SistemaVeterinaria.csproj", "{58F7277C-4431-4066-ABC4-86EF7D88752C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasUnitarias_SistemaVeterinaria", "..\PruebasUnitarias_SistemaVeterinaria\PruebasUnitarias_SistemaVeterinaria.csproj", "{ED2C862E-5174-4455-A737-FCC58C79846E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{58F7277C-4431-4066-ABC4-86EF7D88752C} = {58F7277C-4431-4066-ABC4-86EF7D88752C}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F7277C-4431-4066-ABC4-86EF7D88752C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F7277C-4431-4066-ABC4-86EF7D88752C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F7277C-4431-4066-ABC4-86EF7D88752C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F7277C-4431-4066-ABC4-86EF7D88752C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2C862E-5174-4455-A737-FCC58C79846E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2C862E-5174-4455-A737-FCC58C79846E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2C862E-5174-4455-A737-FCC58C79846E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2C862E-5174-4455-A737-FCC58C79846E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {712B15F6-BE9A-435C-932F-DC7891F4AC49}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,616 @@
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Entidades\ClsEAgenda.cs
+Save 233
+Save 234
+Update 4
+Update 0
+Search 3
+Search 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Entidades\ClsEClientes.cs
+Save 3
+Save 0
+Update 3
+Update 0
+Search 4
+Search 0
+Delete 3
+Delete 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Entidades\ClsEEmpleados.cs
+Save 4
+Save 0
+Update 3
+Update 0
+Search 2
+Search 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Entidades\ClsEGanancias.cs
+Save 2
+Save 15
+Update 2
+Update 0
+Search 3
+Search 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Entidades\ClsEHistorial.cs
+Save 3
+Save 0
+Update 3
+Update 0
+Search 4
+Search 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Entidades\ClsEMantenimientos.cs
+Save 3
+Save 0
+Update 3
+Update 0
+Search 3
+Search 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Entidades\ClsEMascota.cs
+Save 6
+Save 0
+Update 4
+Update 0
+Search 3
+Search 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Entidades\ClsEServicios.cs
+Save 4
+Save 0
+Update 6
+Update 0
+Search 3
+Search 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Entidades\ClsEtratamientos.cs
+Save 4
+Save 0
+Update 5
+Update 0
+Search 3
+Search 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Negocios\ClsNAgenda.cs
+MtdListarTodo 16
+MtdListarTodo 15
+MtdAgregarMySql 5
+MtdAgregarMySql 15
+MtdMoficarMySql 3
+MtdMoficarMySql 0
+MtdBuscarMySql 6
+MtdBuscarMySql 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Negocios\ClsNClientes.cs
+MtdListarTodo 5
+MtdListarTodo 0
+MtdAgregarClienteMysql 2
+MtdAgregarClienteMysql 0
+MtdMoficarMysql 2
+MtdMoficarMysql 0
+MtdEliminarMySql 2
+MtdEliminarMySql 0
+MtdBuscarMySql 5
+MtdBuscarMySql 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Negocios\ClsNConexion.cs
+conectar 2
+conectar 0
+cerrar 2
+cerrar 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Negocios\ClsNEmpleados.cs
+MtdListarTodo 4
+MtdListarTodo 0
+MtdAgregarMySql 2
+MtdAgregarMySql 0
+MtdMoficarMySql 3
+MtdMoficarMySql 0
+MtdBuscarMySql 5
+MtdBuscarMySql 0
+MtdVAlidarLogin 6
+MtdVAlidarLogin 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Negocios\ClsNGanancias.cs
+MtdBuscarVacuna 6
+MtdBuscarVacuna 0
+MtdBuscarMantenimiento 6
+MtdBuscarMantenimiento 0
+MtdBuscarTratamiento 8
+MtdBuscarTratamiento 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Negocios\ClsNHistorial.cs
+MtdBuscarMascota 7
+MtdBuscarMascota 0
+MtdBuscarVacunas 6
+MtdBuscarVacunas 0
+MtdBuscarMantenimiento 5
+MtdBuscarMantenimiento 0
+MtdBuscarTratamiento 5
+MtdBuscarTratamiento 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Negocios\ClsNMantenimiento.cs
+MtdListarTodo 5
+MtdListarTodo 0
+MtdAgregarMySql 3
+MtdAgregarMySql 0
+MtdMoficarMySql 2
+MtdMoficarMySql 0
+MtdBuscarMySql 5
+MtdBuscarMySql 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Negocios\ClsNMascota.cs
+MtdListarTodo 5
+MtdListarTodo 15
+MtdAgregarMySql 2
+MtdAgregarMySql 0
+MtdMoficarMySql 2
+MtdMoficarMySql 0
+MtdBuscarMySql 6
+MtdBuscarMySql 0
+MtdBuscarMascota 4
+MtdBuscarMascota 15
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Negocios\ClsNServicios.cs
+MtdListarTodo 5
+MtdListarTodo 0
+MtdAgregarMySql 2
+MtdAgregarMySql 0
+MtdMoficarMySql 2
+MtdMoficarMySql 0
+MtdBuscarMySql 5
+MtdBuscarMySql 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Negocios\ClsNTratamientos.cs
+MtdListarTodo 5
+MtdListarTodo 0
+MtdAgregarMySql 2
+MtdAgregarMySql 0
+MtdMoficarMySql 2
+MtdMoficarMySql 0
+MtdBuscarMySql 7
+MtdBuscarMySql 15
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmAgenda.cs
+FrmAgenda_Load 3
+FrmAgenda_Load 0
+btnNuevo_Click 3
+btnNuevo_Click 0
+MtdLimpiarCajas 5
+MtdLimpiarCajas 15
+btnGuardar_Click 16
+btnGuardar_Click 15
+btnModificar_Click 8
+btnModificar_Click 0
+listar 4
+listar 15
+btnListar_Click 4
+btnListar_Click 0
+btnBuscar1_Click_1 6
+btnBuscar1_Click_1 0
+btnBuscar_Click 3
+btnBuscar_Click 0
+dgvAgenda_CellMouseClick 5
+dgvAgenda_CellMouseClick 0
+btnPDF_Click 3
+btnPDF_Click 0
+GenerarDocumentos 15
+GenerarDocumentos 15
+GetTamañoColumnas 5
+GetTamañoColumnas 0
+txtDni_KeyPress 3
+txtDni_KeyPress 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmAgenda.Designer.cs
+Dispose 4
+Dispose 0
+InitializeComponent 92
+InitializeComponent 93
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmGanancias.cs
+FrmGanancias_Load 3
+FrmGanancias_Load 15
+materialRaisedButton1_Click 4
+materialRaisedButton1_Click 0
+btnCalcular_Click 12
+btnCalcular_Click 15
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmGanancias.Designer.cs
+Dispose 2
+Dispose 0
+InitializeComponent 26
+InitializeComponent 31
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmLogins.cs
+FrmLogins_Load 3
+FrmLogins_Load 0
+btnIngresar_Click 2
+btnIngresar_Click 0
+txtCodigo_KeyPress 5
+txtCodigo_KeyPress 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmLogins.Designer.cs
+Dispose 3
+Dispose 0
+InitializeComponent 46
+InitializeComponent 31
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmReportMantenimiento.cs
+FrmReportMantenimiento_Load 5
+FrmReportMantenimiento_Load 0
+btnVacunas_Click 3
+btnVacunas_Click 0
+btnPDF_Click 5
+btnPDF_Click 15
+GenerarDocumentos 11
+GenerarDocumentos 0
+GetTamañoColumnas 4
+GetTamañoColumnas 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmReportMantenimiento.Designer.cs
+Dispose 6
+Dispose 0
+InitializeComponent 18
+InitializeComponent 15
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmReportTratamientos.cs
+FrmReportTratamientos_Load 5
+FrmReportTratamientos_Load 0
+btnVacunas_Click 3
+btnVacunas_Click 0
+btnPDF_Click 4
+btnPDF_Click 0
+GenerarDocumentos 10
+GenerarDocumentos 15
+GetTamañoColumnas 4
+GetTamañoColumnas 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmReportTratamientos.Designer.cs
+Dispose 3
+Dispose 0
+InitializeComponent 17
+InitializeComponent 15
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmReportVacunas.cs
+FrmReportVacunas_Load 4
+FrmReportVacunas_Load 0
+btnVacunas_Click 3
+btnVacunas_Click 0
+btnPDF_Click 4
+btnPDF_Click 15
+GenerarDocumentos 10
+GenerarDocumentos 0
+GetTamañoColumnas 4
+GetTamañoColumnas 15
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmReportVacunas.Designer.cs
+Dispose 3
+Dispose 0
+InitializeComponent 15
+InitializeComponent 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmTratamientos.cs
+FrmEmergencia_Load 3
+FrmEmergencia_Load 0
+btnNuevo_Click 3
+btnNuevo_Click 0
+MtdLimpiarCajas 4
+MtdLimpiarCajas 0
+btnGuardar_Click 9
+btnGuardar_Click 15
+btnModificar_Click 8
+btnModificar_Click 0
+btnListar_Click 3
+btnListar_Click 0
+btnBuscar_Click 5
+btnBuscar_Click 15
+btnBuscarM_Click 59
+btnBuscarM_Click 15
+txtDni_KeyPress 4
+txtDni_KeyPress 0
+txtBuscar_KeyPress 4
+txtBuscar_KeyPress 0
+btnBuscarPorDni_Click 4
+btnBuscarPorDni_Click 0
+dgvMascotas_CellMouseClick 7
+dgvMascotas_CellMouseClick 0
+txtNombre_KeyPress 4
+txtNombre_KeyPress 0
+txtTratamientos_KeyPress 4
+txtTratamientos_KeyPress 0
+txtSoles_KeyPress 5
+txtSoles_KeyPress 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmTratamientos.Designer.cs
+Dispose 3
+Dispose 0
+InitializeComponent 106
+InitializeComponent 93
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmEmpleado.cs
+FrmEmpleado_Load 3
+FrmEmpleado_Load 0
+btnNuevo_Click 6
+btnNuevo_Click 0
+MtdLimpiarCajas 4
+MtdLimpiarCajas 0
+btnGuardar_Click 4
+btnGuardar_Click 0
+btnModificar_Click 4
+btnModificar_Click 0
+listar 4
+listar 15
+btnListar_Click 3
+btnListar_Click 0
+btnBuscar_Click 5
+btnBuscar_Click 0
+dgvEmpleado_CellMouseClick 7
+dgvEmpleado_CellMouseClick 15
+txtDni_KeyPress 5
+txtDni_KeyPress 0
+btnPDF_Click 4
+btnPDF_Click 0
+GenerarDocumentos 9
+GenerarDocumentos 15
+GetTamañoColumnas 4
+GetTamañoColumnas 0
+txtNombres_KeyPress 4
+txtNombres_KeyPress 0
+txtApellidos_KeyPress 4
+txtApellidos_KeyPress 0
+txtDireccion_KeyPress 5
+txtDireccion_KeyPress 0
+txtClave_KeyPress 4
+txtClave_KeyPress 0
+txtBuscar_KeyPress 4
+txtBuscar_KeyPress 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmEmpleado.Designer.cs
+Dispose 3
+Dispose 0
+InitializeComponent 86
+InitializeComponent 93
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmHistorial.cs
+FrmHistorial_Load 3
+FrmHistorial_Load 0
+btnBuscar_Click 8
+btnBuscar_Click 15
+btnVacunas_Click 7
+btnVacunas_Click 0
+txtDni_KeyPress 4
+txtDni_KeyPress 0
+btnMantenimientos_Click 4
+btnMantenimientos_Click 15
+btnTratamientos_Click 5
+btnTratamientos_Click 0
+btnPDF_Click 4
+btnPDF_Click 0
+GenerarDocumentos 10
+GenerarDocumentos 15
+GetTamañoColumnas 4
+GetTamañoColumnas 0
+dgvMasctoras_CellMouseClick 6
+dgvMasctoras_CellMouseClick 15
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmHistorial.Designer.cs
+Dispose 2
+Dispose 0
+InitializeComponent 46
+InitializeComponent 31
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmMantenimiento.cs
+FrmMantenimiento_Load 3
+FrmMantenimiento_Load 0
+btnNuevo_Click 3
+btnNuevo_Click 0
+MtdLimpiarCajas 6
+MtdLimpiarCajas 0
+btnGuardar_Click 7
+btnGuardar_Click 0
+btnModificar_Click 9
+btnModificar_Click 15
+btnlistar_Click 3
+btnlistar_Click 0
+btnBuscar_Click 5
+btnBuscar_Click 0
+btnBuscarM_Click 8
+btnBuscarM_Click 0
+btnBuscarPorDni_Click 4
+btnBuscarPorDni_Click 0
+txtDni_KeyPress 4
+txtDni_KeyPress 0
+txtBuscar_KeyPress 4
+txtBuscar_KeyPress 0
+dgvMascota_CellMouseClick 8
+dgvMascota_CellMouseClick 0
+txtNombre_KeyPress 4
+txtNombre_KeyPress 0
+txtSoles_KeyPress 4
+txtSoles_KeyPress 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmMantenimiento.Designer.cs
+Dispose 9
+Dispose 0
+InitializeComponent 129
+InitializeComponent 78
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmMascota.cs
+FrmMascota_Load 3
+FrmMascota_Load 0
+btnNuevo_Click 4
+btnNuevo_Click 0
+MtdLimpiarCajas 4
+MtdLimpiarCajas 0
+btnGuardar_Click 3
+btnGuardar_Click 0
+btnModificar_Click 3
+btnModificar_Click 0
+listar 4
+listar 0
+btnListar_Click 3
+btnListar_Click 0
+textDni_KeyPress 3
+textDni_KeyPress 15
+btnBuscar_Click 7
+btnBuscar_Click 0
+btnBuscarPorDni_Click 4
+btnBuscarPorDni_Click 0
+txtBuscar_KeyPress 6
+txtBuscar_KeyPress 0
+dgvMascotas_CellMouseClick 10
+dgvMascotas_CellMouseClick 0
+btnPDF_Click 4
+btnPDF_Click 0
+GenerarDocumentos 10
+GenerarDocumentos 0
+GetTamañoColumnas 4
+GetTamañoColumnas 0
+txtNombre_KeyPress 4
+txtNombre_KeyPress 0
+txtEspecie_KeyPress 5
+txtEspecie_KeyPress 0
+txtRaza_KeyPress 4
+txtRaza_KeyPress 15
+txtPeso_KeyPress 4
+txtPeso_KeyPress 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmMascota.Designer.cs
+Dispose 3
+Dispose 0
+InitializeComponent 110
+InitializeComponent 78
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmPrincipal.cs
+loadForm 5
+loadForm 0
+FrmPrincipal_Load 10
+FrmPrincipal_Load 0
+setActiveForm 5
+setActiveForm 0
+btnclientes_Click 3
+btnclientes_Click 0
+btnPProductos_Click 3
+btnPProductos_Click 0
+btnECanina_Click 3
+btnECanina_Click 0
+btnAActividades_Click 4
+btnAActividades_Click 0
+btnMPacientes_Click 3
+btnMPacientes_Click 0
+btnSVacunacion_Click 8
+btnSVacunacion_Click 0
+btnRMascota_Click 3
+btnRMascota_Click 0
+btncerrar_Click 3
+btncerrar_Click 0
+group_Enter 2
+group_Enter 0
+btnHistorial_Click 3
+btnHistorial_Click 0
+btnGanancias_Click 3
+btnGanancias_Click 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmPrincipal.Designer.cs
+Dispose 2
+Dispose 0
+InitializeComponent 79
+InitializeComponent 62
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmClientes.cs
+FrmRegistro_Load 3
+FrmRegistro_Load 0
+btnNuevos_Click 3
+btnNuevos_Click 0
+MtdLimpiarCajas 3
+MtdLimpiarCajas 0
+btnGuardar_Click 8
+btnGuardar_Click 0
+btnModificar_Click 8
+btnModificar_Click 0
+btnEliminar_Click 8
+btnEliminar_Click 15
+listar 3
+listar 0
+btnListar_Click 3
+btnListar_Click 0
+btnBuscar_Click 4
+btnBuscar_Click 0
+textDni_KeyPress 5
+textDni_KeyPress 0
+dgvClientes_CellMouseClick 6
+dgvClientes_CellMouseClick 0
+textBuscar_KeyPress 4
+textBuscar_KeyPress 0
+btnPDF_Click 4
+btnPDF_Click 15
+GenerarDocumentos 20
+GenerarDocumentos 15
+GetTamañoColumnas 4
+GetTamañoColumnas 0
+txtNombres_KeyPress 4
+txtNombres_KeyPress 15
+txtApellidos_KeyPress 5
+txtApellidos_KeyPress 0
+txtDireccion_KeyPress 4
+txtDireccion_KeyPress 0
+txtTelefono_KeyPress 4
+txtTelefono_KeyPress 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmClientes.Designer.cs
+Dispose 3
+Dispose 0
+InitializeComponent 68
+InitializeComponent 46
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmServicios.cs
+FrmServicios_Load 3
+FrmServicios_Load 0
+btnNuevo_Click 4
+btnNuevo_Click 0
+MtdLimpiarCajas 8
+MtdLimpiarCajas 0
+btnGuardar_Click 8
+btnGuardar_Click 15
+btnModificar_Click 7
+btnModificar_Click 0
+btnListar_Click 3
+btnListar_Click 0
+btnBuscar_Click 5
+btnBuscar_Click 0
+btnBuscarM_Click 9
+btnBuscarM_Click 0
+txtDni_KeyPress 5
+txtDni_KeyPress 0
+txtBuscar_KeyPress 4
+txtBuscar_KeyPress 0
+btnBuscarPorDni_Click 4
+btnBuscarPorDni_Click 0
+dgvVacunacion_CellMouseClick 6
+dgvVacunacion_CellMouseClick 0
+txtNombre_KeyPress 4
+txtNombre_KeyPress 0
+txtVacuna_KeyPress 4
+txtVacuna_KeyPress 0
+txtSoles_KeyPress 3
+txtSoles_KeyPress 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Principal\FrmServicios.Designer.cs
+Dispose 2
+Dispose 0
+InitializeComponent 66
+InitializeComponent 62
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Program.cs
+Main 2
+Main 0
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Properties\AssemblyInfo.cs
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Properties\Resources.Designer.cs
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\Properties\Settings.Designer.cs
+
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+

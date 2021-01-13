@@ -1,0 +1,1064 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  13 JAN 2021 17:40
+entering extended mode
+**./ProyectoFinal_3Uni_BD2.tex
+(ProyectoFinal_3Uni_BD2.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls"
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo"
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.s
+ty"
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.s
+ty"
+Package: babel 2020/10/06 3.50 The Babel package
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.d
+ef"
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count184
+\U@D=\dimen139
+\l@babelnohyphens=\language79
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabe
+l.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count185
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.c
+fg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\s
+panish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks17
+\es@quotdepth=\count186
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath
+.sty"
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext
+.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.
+sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen140
+))
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.
+sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.
+sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip16
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks19
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks20
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfon
+ts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssym
+b.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/abstract\abstra
+ct.sty"
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip52
+\absleftindent=\skip53
+\absrightindent=\skip54
+\absparindent=\skip55
+\absparsep=\skip56
+
+
+! LaTeX Error: Environment abstract undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104   \renewenvironment{abstract}
+                                   {%
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.
+sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count199
+\Gm@cntv=\count266
+\c@Gm@tempcnt=\count267
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks24
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.cfg"))
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count268
+\l__pdf_internal_box=\box49
+)
+No file ProyectoFinal_3Uni_BD2.aux.
+\openout1 = `ProyectoFinal_3Uni_BD2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen159
+\scratchbox=\box50
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen160
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks26
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 700.50723pt, 72.2698pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.96826pt
+* \textheight=700.50723pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-31.87398pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=38.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+LaTeX Warning: File `img/uptlogo.jpg' not found on input line 31.
+
+
+! Package pdftex.def Error: File `img/uptlogo.jpg' not found: using draft setti
+ng.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...cs[width=6cm, height=7cm]{img/uptlogo.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[1
+
+{C:/Users/VICTOR PIERO/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+
+LaTeX Warning: File `img/OR/mapa.png' not found on input line 216.
+
+
+! Package pdftex.def Error: File `img/OR/mapa.png' not found: using draft setti
+ng.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.216 ...s[width=8cm, height=8cm]{img/OR/mapa.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/OR/primera.png' not found on input line 220.
+
+
+! Package pdftex.def Error: File `img/OR/primera.png' not found: using draft se
+tting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 ...idth=8cm, height=8cm]{img/OR/primera.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/OR/segunda.png' not found on input line 224.
+
+
+! Package pdftex.def Error: File `img/OR/segunda.png' not found: using draft se
+tting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.224 ...idth=8cm, height=8cm]{img/OR/segunda.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/OR/tercera.png' not found on input line 228.
+
+
+! Package pdftex.def Error: File `img/OR/tercera.png' not found: using draft se
+tting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.228 ...idth=8cm, height=8cm]{img/OR/tercera.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+LaTeX Warning: File `img/Migraciones/1webconfig.png' not found on input line 23
+9.
+
+
+! Package pdftex.def Error: File `img/Migraciones/1webconfig.png' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.239 ...ight=3cm]{img/Migraciones/1webconfig.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[5]
+
+LaTeX Warning: File `img/Migraciones/2Context.png' not found on input line 244.
+
+
+
+! Package pdftex.def Error: File `img/Migraciones/2Context.png' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.244 ...height=9cm]{img/Migraciones/2Context.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/Migraciones/3clases.png' not found on input line 249.
+
+
+! Package pdftex.def Error: File `img/Migraciones/3clases.png' not found: using
+ draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.249 ...,height=6cm]{img/Migraciones/3clases.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+
+LaTeX Warning: File `img/Migraciones/4clasemigra.png' not found on input line 2
+56.
+
+
+! Package pdftex.def Error: File `img/Migraciones/4clasemigra.png' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ...ght=9cm]{img/Migraciones/4clasemigra.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/Migraciones/5clasemigra.png' not found on input line 2
+60.
+
+
+! Package pdftex.def Error: File `img/Migraciones/5clasemigra.png' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 ...ght=9cm]{img/Migraciones/5clasemigra.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[7]
+
+LaTeX Warning: File `img/Migraciones/6clasemigra.png' not found on input line 2
+64.
+
+
+! Package pdftex.def Error: File `img/Migraciones/6clasemigra.png' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.264 ...ght=9cm]{img/Migraciones/6clasemigra.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/Migraciones/7clasemigra.png' not found on input line 2
+68.
+
+
+! Package pdftex.def Error: File `img/Migraciones/7clasemigra.png' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.268 ...ght=9cm]{img/Migraciones/7clasemigra.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[8]
+
+LaTeX Warning: File `img/Migraciones/8clasemigra.png' not found on input line 2
+72.
+
+
+! Package pdftex.def Error: File `img/Migraciones/8clasemigra.png' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272 ...ght=9cm]{img/Migraciones/8clasemigra.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/Migraciones/9clasemigra.png' not found on input line 2
+76.
+
+
+! Package pdftex.def Error: File `img/Migraciones/9clasemigra.png' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.276 ...ght=9cm]{img/Migraciones/9clasemigra.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[9]
+
+LaTeX Warning: File `img/Migraciones/10clasemigra.png' not found on input line 
+280.
+
+
+! Package pdftex.def Error: File `img/Migraciones/10clasemigra.png' not found: 
+using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.280 ...ht=4cm]{img/Migraciones/10clasemigra.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/Migraciones/11configuracion.png' not found on input li
+ne 286.
+
+
+! Package pdftex.def Error: File `img/Migraciones/11configuracion.png' not foun
+d: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.286 ...9cm]{img/Migraciones/11configuracion.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[10]
+
+LaTeX Warning: File `img/Migraciones/12comandos.png' not found on input line 29
+1.
+
+
+! Package pdftex.def Error: File `img/Migraciones/12comandos.png' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.291 ...ight=3cm]{img/Migraciones/12comandos.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/Migraciones/13comandos.png' not found on input line 29
+5.
+
+
+! Package pdftex.def Error: File `img/Migraciones/13comandos.png' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.295 ...ight=3cm]{img/Migraciones/13comandos.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/Migraciones/14datos.png' not found on input line 299.
+
+
+! Package pdftex.def Error: File `img/Migraciones/14datos.png' not found: using
+ draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.299 ...height=10cm]{img/Migraciones/14datos.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[11]
+
+LaTeX Warning: File `img/Migraciones/15consola.png' not found on input line 304
+.
+
+
+! Package pdftex.def Error: File `img/Migraciones/15consola.png' not found: usi
+ng draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.304 ...eight=3cm]{img/Migraciones/15consola.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/Migraciones/16view.png' not found on input line 308.
+
+
+! Package pdftex.def Error: File `img/Migraciones/16view.png' not found: using 
+draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.308 ... height=10cm]{img/Migraciones/16view.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[12]
+
+LaTeX Warning: File `img/Migraciones/17complet.png' not found on input line 313
+.
+
+
+! Package pdftex.def Error: File `img/Migraciones/17complet.png' not found: usi
+ng draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.313 ...eight=8cm]{img/Migraciones/17complet.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 319--320
+
+ []
+
+
+LaTeX Warning: File `img/casosdeuso/registrocliente.png' not found on input lin
+e 326.
+
+
+! Package pdftex.def Error: File `img/casosdeuso/registrocliente.png' not found
+: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.326 ...=4cm]{img/casosdeuso/registrocliente.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/casosdeuso/registroempleado.png' not found on input li
+ne 332.
+
+
+! Package pdftex.def Error: File `img/casosdeuso/registroempleado.png' not foun
+d: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.332 ...4cm]{img/casosdeuso/registroempleado.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/casosdeuso/registromascota.png' not found on input lin
+e 338.
+
+
+! Package pdftex.def Error: File `img/casosdeuso/registromascota.png' not found
+: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.338 ...=4cm]{img/casosdeuso/registromascota.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[14]
+
+LaTeX Warning: File `img/casosdeuso/registroservicio.png' not found on input li
+ne 344.
+
+
+! Package pdftex.def Error: File `img/casosdeuso/registroservicio.png' not foun
+d: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 ...4cm]{img/casosdeuso/registroservicio.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/casosdeuso/registromantenimiento.png' not found on inp
+ut line 350.
+
+
+! Package pdftex.def Error: File `img/casosdeuso/registromantenimiento.png' not
+ found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.350 ...img/casosdeuso/registromantenimiento.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/casosdeuso/registrotratamiento.png' not found on input
+ line 357.
+
+
+! Package pdftex.def Error: File `img/casosdeuso/registrotratamiento.png' not f
+ound: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.357 ...]{img/casosdeuso/registrotratamiento.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[15]
+
+LaTeX Warning: File `img/casosdeuso/registrohistorial.png' not found on input l
+ine 365.
+
+
+! Package pdftex.def Error: File `img/casosdeuso/registrohistorial.png' not fou
+nd: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.365 ...cm]{img/casosdeuso/registrohistorial.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `img/casosdeuso/registroagenda.png' not found on input line
+ 372.
+
+
+! Package pdftex.def Error: File `img/casosdeuso/registroagenda.png' not found:
+ using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.372 ...t=5cm]{img/casosdeuso/registroagenda.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+
+ []
+
+
+LaTeX Warning: File `img/arqui.png' not found on input line 384.
+
+
+! Package pdftex.def Error: File `img/arqui.png' not found: using draft setting
+.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.384 ...cs[width=13cm, height=8cm]{img/arqui.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 395
+.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
+d"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 395
+.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
+d"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (17.96065pt too wide) in paragraph at lines 417--438
+[][]
+ []
+
+
+Overfull \hbox (29.51051pt too wide) in paragraph at lines 443--463
+[][] 
+ []
+
+
+Overfull \hbox (17.17314pt too wide) in paragraph at lines 470--489
+[][]
+ []
+
+
+Overfull \hbox (43.51038pt too wide) in paragraph at lines 494--513
+[][]
+ []
+
+
+Overfull \hbox (38.0007pt too wide) in paragraph at lines 519--540
+[][]
+ []
+
+
+Overfull \hbox (21.67726pt too wide) in paragraph at lines 544--564
+[][]
+ []
+
+[16] [17] [18] (ProyectoFinal_3Uni_BD2.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4646 strings out of 480257
+ 73581 string characters out of 2878097
+ 386556 words of memory out of 3000000
+ 21063 multiletter control sequences out of 15000+200000
+ 543724 words of font info for 60 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,8n,66p,547b,529s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/VICTOR PIERO/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/V
+ICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.
+pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmti12.pfb><C:/Users/VICTOR PIERO/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ProyectoFinal_3Uni_BD2.pdf (20 pages, 131728 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

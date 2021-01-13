@@ -1,0 +1,13 @@
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\bin\Debug\netcoreapp3.1\aplicacionNetCore.exe
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\bin\Debug\netcoreapp3.1\aplicacionNetCore.deps.json
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\bin\Debug\netcoreapp3.1\aplicacionNetCore.runtimeconfig.json
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\bin\Debug\netcoreapp3.1\aplicacionNetCore.runtimeconfig.dev.json
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\bin\Debug\netcoreapp3.1\aplicacionNetCore.dll
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\bin\Debug\netcoreapp3.1\aplicacionNetCore.pdb
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\obj\Debug\netcoreapp3.1\aplicacionNetCore.csprojAssemblyReference.cache
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\obj\Debug\netcoreapp3.1\aplicacionNetCore.AssemblyInfoInputs.cache
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\obj\Debug\netcoreapp3.1\aplicacionNetCore.AssemblyInfo.cs
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\obj\Debug\netcoreapp3.1\aplicacionNetCore.csproj.CoreCompileInputs.cache
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\obj\Debug\netcoreapp3.1\aplicacionNetCore.dll
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\obj\Debug\netcoreapp3.1\aplicacionNetCore.pdb
+E:\Risther2020\CICLO VII\Calidad y Pruebas de Software\U1\SistemaVeterinaria\SistemaVeterinaria\aplicacionNetCore\obj\Debug\netcoreapp3.1\aplicacionNetCore.genruntimeconfig.cache
